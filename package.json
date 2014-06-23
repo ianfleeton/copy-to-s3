@@ -5,5 +5,8 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/ianfleeton/copy-to-s3.git"
+  },
+  "dependencies": {
+    "express": "^4.4.4"
   }
 }
