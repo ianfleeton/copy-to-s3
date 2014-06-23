@@ -7,6 +7,7 @@
     "url": "git://github.com/ianfleeton/copy-to-s3.git"
   },
   "dependencies": {
+    "body-parser": "^1.4.3",
     "express": "^4.4.4"
   }
 }
