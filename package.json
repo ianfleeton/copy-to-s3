@@ -1,0 +1,9 @@
+{
+  "name": "copy-to-s3",
+  "description": "A Node/Express microservice to copy files from an HTTP/HTTPS source to Amazon S3",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ianfleeton/copy-to-s3.git"
+  }
+}
